@@ -1,0 +1,181 @@
+{
+  "blog": [
+    {
+      "id": "1",
+      "titulo": "Poochy & Yoshi's Woolly World",
+      "conteudo": " Lorem ipsum inceptos ut torquent praesent habitant adipiscing non aliquam, eros ut accumsan duis interdum proin curabitur dui congue, euismod curae sollicitudin massa lorem aliquam lorem morbi. dictum eros torquent libero aenean ante pretium quisque sapien quis, ultrices interdum dui imperdiet cras curabitur est. sapien nostra class purus, duis nisl. ",
+      "youtube": "https://youtu.be/LMzzR87xSOk",
+      "referencia": "https://nintendo.fandom.com/wiki/Poochy_%26_Yoshi%27s_Woolly_World",
+      "dataPostagem": "2017-06-01"
+    },
+    {
+      "id": "2",
+      "idGame": "5",
+      "titulo": "Mario Kart",
+      "conteudo": " Lorem ipsum inceptos ut torquent praesent habitant adipiscing non aliquam, eros ut accumsan duis interdum proin curabitur dui congue, euismod curae sollicitudin massa lorem aliquam lorem morbi. dictum eros torquent libero aenean ante pretium quisque sapien quis, ultrices interdum dui imperdiet cras curabitur est. sapien nostra class purus, duis nisl. ",
+      "youtube": "https://youtu.be/tKlRN2YpxRE",
+      "referencia": "https://www.nintendo.com/store/products/mario-kart-8-deluxe-switch/",
+      "dataPostagem": "2018-09-25"
+    },
+    {
+      "id": "3",
+      "titulo": "Marvel's Spider-Man",
+      "conteudo": " Lorem ipsum inceptos ut torquent praesent habitant adipiscing non aliquam, eros ut accumsan duis interdum proin curabitur dui congue, euismod curae sollicitudin massa lorem aliquam lorem morbi. dictum eros torquent libero aenean ante pretium quisque sapien quis, ultrices interdum dui imperdiet cras curabitur est. sapien nostra class purus, duis nisl. ",
+      "youtube": "https://youtu.be/3R2uvJqWeVg",
+      "referencia": "https://www.playstation.com/pt-br/games/marvels-spider-man/?emcid=or-1s-412983",
+      "dataPostagem": "2019-01-25"
+    },
+    {
+      "id": "4",
+      "idGame": "6",
+      "titulo": "Microsoft Flight Simulator",
+      "conteudo": " Lorem ipsum inceptos ut torquent praesent habitant adipiscing non aliquam, eros ut accumsan duis interdum proin curabitur dui congue, euismod curae sollicitudin massa lorem aliquam lorem morbi. dictum eros torquent libero aenean ante pretium quisque sapien quis, ultrices interdum dui imperdiet cras curabitur est. sapien nostra class purus, duis nisl. ",
+      "youtube": "https://youtu.be/ReDDgFfWlS4",
+      "referencia": "https://www.flightsimulator.com/",
+      "dataPostagem": "2020-09-25"
+    },
+    {
+      "id": "5",
+      "titulo": "Hogwarts Legacy",
+      "conteudo": " Lorem ipsum inceptos ut torquent praesent habitant adipiscing non aliquam, eros ut accumsan duis interdum proin curabitur dui congue, euismod curae sollicitudin massa lorem aliquam lorem morbi. dictum eros torquent libero aenean ante pretium quisque sapien quis, ultrices interdum dui imperdiet cras curabitur est. sapien nostra class purus, duis nisl. ",
+      "youtube": "https://youtu.be/1O6Qstncpnc",
+      "referencia": "https://en.wikipedia.org/wiki/Hogwarts_Legacy",
+      "dataPostagem": "2021-03-05"
+    }
+  ],
+  "clientes": [
+    {
+      "id": "1",
+      "nome": "Miguel Silva",
+      "rua": "Rua A",
+      "numero": "1",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01001001"
+    },
+    {
+      "id": "2",
+      "nome": "Helena Santos",
+      "rua": "Rua B",
+      "numero": "22",
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "cep": "18013900"
+    },
+    {
+      "id": "3",
+      "nome": "Arthur Oliveira",
+      "rua": "Rua C",
+      "numero": null,
+      "cidade": "Brasília",
+      "estado": "df",
+      "cep": "70910900"
+    }
+  ],
+  "games": [
+    {
+      "id": "1",
+      "titulo": "Red dead redemption 2",
+      "genero": 0,
+      "trailer": "https://www.youtube.com/watch?v=gmA6MrX81z4",
+      "descricao": "Lorem ipsum scelerisque est fermentum id, posuere velit dictumst maecenas. ",
+      "valorPlaystation": "200",
+      "valorXbox": "200",
+      "valorNintendo": null,
+      "valorPc": "200",
+      "imageUrl": "https://en.wikipedia.org/wiki/File:Red_Dead_Redemption_II.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "GTA V",
+      "genero": 0,
+      "trailer": "https://www.youtube.com/watch?v=QkkoHAzjnUs",
+      "descricao": "Lorem ipsum tortor bibendum in sapien, quisque hendrerit nisl metus. ",
+      "valorPlaystation": "100",
+      "valorXbox": "80",
+      "valorNintendo": null,
+      "valorPc": "50",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png"
+    },
+    {
+      "id": "3",
+      "titulo": "Stardew Valley",
+      "genero": 2,
+      "trailer": "https://www.youtube.com/watch?v=ot7uXNQskhs",
+      "descricao": "Lorem ipsum convallis ut ante aenean, mollis quisque ultricies sit. ",
+      "valorPlaystation": "50",
+      "valorXbox": "50",
+      "valorNintendo": "75",
+      "valorPc": "30",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Stardew_Valley.png"
+    },
+    {
+      "id": "4",
+      "titulo": "Super Mario Odyssey ",
+      "genero": 0,
+      "trailer": "https://www.youtube.com/watch?v=5kcdRBHM7kM",
+      "descricao": "Lorem ipsum malesuada aptent cras integer, pellentesque mauris urna rutrum. ",
+      "valorPlaystation": null,
+      "valorXbox": null,
+      "valorNintendo": null,
+      "valorPc": "300",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg"
+    },
+    {
+      "id": "5",
+      "titulo": "Mario Kart 8",
+      "genero": 1,
+      "trailer": "https://www.youtube.com/watch?v=tKlRN2YpxRE",
+      "descricao": "Lorem ipsum malesuada aptent cras integer, pellentesque mauris urna rutrum. ",
+      "valorPlaystation": null,
+      "valorXbox": null,
+      "valorNintendo": null,
+      "valorPc": "275",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b5/MarioKart8Boxart.jpg"
+    },
+    {
+      "id": "6",
+      "titulo": "Microsoft Flight Simulator",
+      "genero": 2,
+      "trailer": "https://www.youtube.com/watch?v=ReDDgFfWlS4",
+      "descricao": "Lorem ipsum tortor bibendum in sapien, quisque hendrerit nisl metus. ",
+      "valorPlaystation": null,
+      "valorXbox": "250",
+      "valorNintendo": null,
+      "valorPc": "150",
+      "imageUrl": "https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator#/media/File:Microsoft_Flight_Simulator_logo_(2020).png"
+    }
+  ],
+  "genero": [
+    {
+      "id": 0,
+      "descricao": "Ação"
+    },
+    {
+      "id": 1,
+      "descricao": "Corrida"
+    },
+    {
+      "id": 2,
+      "descricao": "Simulação"
+    }
+  ],
+  "plataforma": [
+    {
+      "id": 0,
+      "descricao": "Playstation"
+    },
+    {
+      "id": 1,
+      "descricao": "Xbox"
+    },
+    {
+      "id": 2,
+      "descricao": "Nintendo"
+    },
+    {
+      "id": 3,
+      "descricao": "Pc"
+    }
+  ]
+}
